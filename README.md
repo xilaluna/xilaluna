@@ -1,5 +1,4 @@
-![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://japanpowered.com/media/images/ghost-in-the-shell-typing.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100%"/>
+<img src="https://japanpowered.com/media/images/ghost-in-the-shell-typing.gif" width="100%"/>
 
 
 <!--
