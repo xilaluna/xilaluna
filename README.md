@@ -1,4 +1,4 @@
-![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://japanpowered.com/media/images/ghost-in-the-shell-typing.gif | width=100)
+![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://japanpowered.com/media/images/ghost-in-the-shell-typing.gif) | width=100
 
 <!--
 **xilaluna/xilaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
