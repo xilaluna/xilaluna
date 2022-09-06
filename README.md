@@ -1,4 +1,3 @@
-### Hi there 👋
 ![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://japanpowered.com/media/images/ghost-in-the-shell-typing.gif)
 
 <!--
