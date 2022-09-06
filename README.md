@@ -1,4 +1,5 @@
 ### Hi there 👋
+![typing gif](https://www.japanpowered.com/anime-articles/page/9.gif)
 
 <!--
 **xilaluna/xilaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
