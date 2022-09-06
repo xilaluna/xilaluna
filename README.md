@@ -1,1 +1,1 @@
-<img src="ghost-in-the-shell-typing.gif" width="100%"/>
+<img src="typing.gif" width="100%"/>
